@@ -39,7 +39,7 @@ kind: HorizontalPodAutoscaler
 metadata:
   name: hello-hpa
   namespace: hello
-  spec:
+spec:
   scaleTargetRef:
     apiVersion: apps/v1
     kind: Deployment
