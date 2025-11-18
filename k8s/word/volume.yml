@@ -38,5 +38,5 @@ spec:
   resources:
     requests:
       storage: 1Gi
-  vollumeName: mysql-pv
+  volumeName: mysql-pv
   storageClassName: docker-sc
