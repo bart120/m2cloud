@@ -25,3 +25,18 @@ spec:
         image: bart120/front-aqua:latest
         ports:
         - containerPort: 80
+---
+#service
+apiVersion: v1
+kind: Service
+metadata:
+  name: hello-service
+  namespace: hello
+spec:
+  selector:
+    app: hello
+  ports:
+  - protocol: TCP
+    port: 8080
+    targetPort: 80
+  type: LoadBalancer
