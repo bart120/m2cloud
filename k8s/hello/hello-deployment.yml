@@ -1,0 +1,27 @@
+#namespace
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: hello
+---
+#deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hello-deployment
+  namespace: hello
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: hello
+  template:
+    metadata:
+      labels:
+        app: hello
+    spec:
+      containers:
+      - name: hello-container
+        image: bart120/front-aqua:latest
+        ports:
+        - containerPort: 80
