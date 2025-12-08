@@ -59,7 +59,7 @@ services:
       - rabbitmq
     restart: always
 
-  identity.api:
+  service-api-identity:
     image: identity.api
     environment:
       - RedisHost=user.data:6379
