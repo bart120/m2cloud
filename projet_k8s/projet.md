@@ -154,13 +154,13 @@ Les groupes sont les suivants:
 
 Les horaires de passage des groupes sont les suivants:
    
-- 10h30: 
-- 11h: 
-- 11h30: 
-- 12h: 
-- 12h30: 
-- 14h: 
-- 14h30: 
-- 15h: 
+- 10h30: Issam, Daniel, Hugo, Anthony
+- 11h: Fatih, Williams, Antony, Clément
+- 11h30: Chiraz, Wali, Mohamed Ali
+- 12h: Kyrian, Léa
+- 12h30: Dimitri, Ibrahima, Yves-Michael
+- 14h: Ivan, Maxime, Berthovin, Imdad
+- 14h30: Mohamed, Abderrahim, Mourad, Saïd
+- 15h: Klein, Iptissem, Redwan, Lamya
 
 Pour ceux dont le groupe n'est pas dans la liste, contactez-moi très rapidement à vincent.leclerc@ynov.com
