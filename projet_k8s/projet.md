@@ -93,6 +93,36 @@ Créer au moins :
 Afin d'automatiser le déploiement sur d'autres clusters, vous allez mettre en place un système de déploiement automatisé via [HELM](https://helm.sh/docs/helm/helm_create/).
 Votre paquet HEML devra contenir la création des pods, déploiements, services, ingress mais pas de controleur d'ingress.
 
+# Options
+
+## Gestion des configurations & secrets
+
+Configuration dynamique et sécurisée des applications.
+Utilisation de ConfigMaps pour :
+  - chaînes de connexion
+  - URLs des services
+  - paramètres applicatifs
+
+Utilisation de Secrets Kubernetes pour :
+  - mots de passe SQL
+  - credentials RabbitMQ
+
+## Stratégies de déploiement avancées
+
+Mise à jour applicative sans interruption
+  RollingUpdate configuré explicitement :
+    - maxUnavailable
+    - maxSurge
+  Démonstration :
+    - déploiement d’une nouvelle version
+    - aucune coupure du service web
+    
+Canary deployment simple (2 versions de web) ou Labels + selector pour basculer le trafic
+
+Livrable :
+  - manifest Deployment documenté
+  - capture ou logs de démonstration
+
 
 # Groupes et fonctionnement
 
