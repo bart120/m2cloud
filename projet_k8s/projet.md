@@ -184,11 +184,11 @@ Les groupes sont les suivants:
 
 Les horaires de passage des groupes sont les suivants:
    
-- 10h30: Issam, Daniel, Hugo, Anthony
-- 11h: Fatih, Williams, Antony, Clément
-- 11h30: Chiraz, Wali, Mohamed Ali
-- 12h: Kyrian, Léa
-- 12h30: Dimitri, Ibrahima, Yves-Michael
+- 11h: Issam, Daniel, Hugo, Anthony
+- 11h30: Fatih, Williams, Antony, Clément
+- 12h: Chiraz, Wali, Mohamed Ali
+- 12h30: Kyrian, Léa
+- 13h: Dimitri, Ibrahima, Yves-Michael
 - 14h: Ivan, Maxime, Berthovin, Imdad
 - 14h30: Mohamed, Abderrahim, Mourad, Saïd
 - 15h: Klein, Iptissem, Redwan, Lamya
