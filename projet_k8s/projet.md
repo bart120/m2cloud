@@ -189,8 +189,8 @@ Les horaires de passage des groupes sont les suivants:
 - 12h: Chiraz, Wali, Mohamed Ali
 - 12h30: Kyrian, Léa
 - 13h: Dimitri, Ibrahima, Yves-Michael
-- 14h: Ivan, Maxime, Berthovin, Imdad
-- 14h30: Mohamed, Abderrahim, Mourad, Saïd
-- 15h: Klein, Iptissem, Redwan, Lamya
+- 13h30: Ivan, Maxime, Berthovin, Imdad
+- 14h: Mohamed, Abderrahim, Mourad, Saïd
+- 14h30: Klein, Iptissem, Redwan, Lamya
 
 Pour ceux dont le groupe n'est pas dans la liste, contactez-moi très rapidement à vincent.leclerc@ynov.com
